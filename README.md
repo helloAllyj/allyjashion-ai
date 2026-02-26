@@ -1,4 +1,4 @@
-# allyjashion-ai# AllyJashion - AI Fashion Recommendation System
+# AllyJashion - AI Fashion Recommendation System
 
 > Personalized outfit recommendations using CLIP + metric learning + LLM
 
@@ -110,11 +110,7 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- Portfolio: [yoursite.com]
-- LinkedIn: [your-linkedin]
-- Email: your@email.com
+**Allyson Juarez*
+- Email: allysonjuarez.dev@gmail.com
 
 ---
-
-*Built as a portfolio project demonstrating modern AI engineering practices*
